@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YetiTheSleepingChancellor
+- 👋 Hi, I’m @YetiTheSleepingChancellor (Sandip Tamang)
 - 👀 I’m interested in Information Technology.
 - 🌱 I’m currently learning python through projects.
 - 💞️ I’m looking to collaborate on projects to make it fun and exciting.  
